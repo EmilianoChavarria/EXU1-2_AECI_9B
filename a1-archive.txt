@@ -2,3 +2,4 @@ Archivo de la actvidad 1 - Aldrick Emiliano CHavarría Ibarra
 Parrafo 2 desde main
 
 Parrafo #1 desde user2
+Parrafo #2 desde user2
