@@ -4,3 +4,5 @@ Parrafo #1 desde a3-user1
 Parrafo #2 desde a3-user1
 Parrafo #3 desde a3-user1
 Parrafo #4 desde a3-user1
+
+Párrafo del HOTFIX
